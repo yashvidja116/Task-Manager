@@ -14,7 +14,6 @@ A full-stack task and project management web application built with React, Node.
 | Database   | MongoDB + Mongoose                      |
 | Auth       | JWT (access + refresh tokens)           |
 | Real-time  | Socket.IO                               |
-| Containers | Docker + Docker Compose                 |
 | Testing    | Jest + Supertest                        |
 
 ---
